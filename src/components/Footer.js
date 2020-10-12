@@ -39,7 +39,6 @@ function Footer() {
             <h2>Contact Us</h2>
             <Link to='/'>Contact</Link>
             <Link to='/'>Support</Link>
-            <Link to='/'>Destinations</Link>
             <Link to='/'>Sponsorships</Link>
           </div>
         </div>
@@ -64,11 +63,11 @@ function Footer() {
         <div class='social-media-wrap'>
           <div class='footer-logo'>
             <Link to='/' className='social-logo'>
-              TRVL
+              CODE-SCHOOL
               <i class='fab fa-typo3' />
             </Link>
           </div>
-          <small class='website-rights'>TRVL © 2020</small>
+          <small class='website-rights'>CODE-SCHOOL © 2020</small>
           <div class='social-icons'>
             <Link
               class='social-icon-link facebook'
